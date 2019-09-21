@@ -1,4 +1,4 @@
-# rn-goal-app
+# Goal App
 
 A simple goal-setting app to understand React Native basics using Expo:
 - core components (View, Text, TextInput, Button)
