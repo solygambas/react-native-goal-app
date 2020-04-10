@@ -7,6 +7,16 @@
     "web": "expo start --web",
     "eject": "expo eject"
   },
+    "repository": {
+    "type": "git",
+    "url": "git+https://github.com/solygambas/react-native-goal-app.git"
+  },
+  "author": "solygambas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/solygambas/react-native-goal-app/issues"
+  },
+  "homepage": "https://github.com/solygambas/react-native-goal-app#readme",
   "dependencies": {
     "expo": "^34.0.1",
     "react": "16.8.3",
